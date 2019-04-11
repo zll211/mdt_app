@@ -1,0 +1,3 @@
+[submodule "lib/common"]
+	path = lib/common
+	url = http://git.hzztai.com/mdt/app_common.git
